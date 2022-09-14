@@ -1,2 +1,10 @@
 ||taobao.com^
 ||www.taobao.com^
+||kickasstracker.com^
+||open.kickasstracker.com^
+@@||open.kickasstracker.com^|
+@@||kickasstracker.com^|
+@@||www.taobao.com^|
+@@||taobao.com^|
+127.0.0.1 taobao.com
+127.0.0.1 www.taobao.com
